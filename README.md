@@ -8,11 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-<div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
 
-<div align="center"> <img id="badges" src="https://komarev.com/ghpvc/?username=Yuliiadrg&style=flat-square&color=blue" alt="views of my profile"/> <div>
+<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a> ꧁ hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>꧂<br><samp>
     
-<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+<div> <img id="badges" src="https://komarev.com/ghpvc/?username=Yuliiadrg&style=flat-square&color=blue" alt="views of my profile"/> <div>
 
 <!-- ### :woman_technologist: About Me :
 
