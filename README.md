@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="250" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a> ꧁ hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>꧂<br><samp>
+<a href="https://tenor.com/view/eevee-pokemon-wink-pixel-gif-15197794"><img align="left" width="200" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a> ꧁ hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>꧂<br><samp>
     
 <div> <img id="badges" src="https://komarev.com/ghpvc/?username=Yuliiadrg&style=flat-square&color=blue" alt="views of my profile"/> <div>
 
@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuliiadrg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
    
